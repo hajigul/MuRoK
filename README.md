@@ -19,8 +19,9 @@ Multimodal knowledge graph retrievers apply one fixed aggregation rule to every 
 
 ## Overview
 
+
 <p align="center">
-  <img src="Figures/MuRoK_.png" width="95%" alt="Overview of the MuRoK architecture"/>
+  <img src="MuRoK_.png" width="95%" alt="Overview of the MuRoK architecture"/>
 </p>
 
 <p align="center">
