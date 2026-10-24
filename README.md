@@ -300,11 +300,6 @@ Stated plainly, as in the paper:
 
 ---
 
-## Acknowledgements
-
-Built on [CLIP](https://github.com/openai/CLIP) (Radford et al., 2021) and [BLIP](https://github.com/salesforce/BLIP) (Li et al., 2022). FB15k-237 is from Toutanova & Chen (2015); the image-augmented variant follows Chen et al. (2022).
-
-TODO: add funding and institutional acknowledgements.
 
 ## License
 
